@@ -11,7 +11,7 @@ if __name__ == '__main__':
     while True:
         print()
         print_center("==============================")
-        print_center("=====Apka Guruji Hotels=====")
+        print_center("=====TAJ SKYLINE HOTEL=====")
         print_center("==============================")
         print_center("1. Manage Rooms")
         print_center("2. Manage Customers")
